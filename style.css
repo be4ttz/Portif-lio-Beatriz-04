@@ -1,0 +1,13 @@
+body{
+    background-color: azure;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    border: rgb(255, 137, 210) solid 3px;
+}
+
+img{
+    border-radius: 120px;
+    width: 100px;
+}
